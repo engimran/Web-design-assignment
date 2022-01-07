@@ -18,6 +18,7 @@ body{
     border-color: blue;
     border-image-slice: 1;
     border-radius: 2px;
+    
 }
 .link-button{
     text-decoration: none;
@@ -37,6 +38,7 @@ body{
 .second-part{
     display: flex;
     padding-left: 2px;
+    padding-bottom: 60px;
 }
 .style-img {
     width: 30%;
@@ -55,24 +57,33 @@ body{
     background-color: lightblue;
     padding-left: 15px;
 }
+
 .third-part{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    padding-bottom: 80px;
+
+}
+.code-img{
+    width: 300px;
 }
 .fourth-part{
     display: flex;
-    margin-left: 100px;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 60px;
 }
-.project-img{
-    width: 30%;
+.pro-img{
+    width: 300px;
 }
 .contact{
     background-color: silver;
     margin:0px 200px 0px 200px;
+    margin-bottom: 60px;
     padding-left: 200px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 }
 .last{
     
